@@ -81,6 +81,11 @@ document.getElementById('slot-s06').outerHTML = `  <section id="s06" class="sect
         <div class="card-title">Emotional Residue</div>
         <p>Read the emotional residue of recent violence in a room — revealing ambush history, trap placements, and hidden lore.</p>
       </div>
+       <div class="card danger">
+        <span class="card-icon">💎</span>
+        <div class="card-title">Nullite Attunement</div>
+        <p>Detect high-density Nullite veins, hidden storage caches, and false cavern walls by tuning into discordant, hollow patterns in the localized Hum.</p>
+      </div>
     </div>
 
     <div class="callout">
